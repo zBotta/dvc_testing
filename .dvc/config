@@ -1,4 +1,6 @@
 [core]
-    remote = mydvcremote
+    remote = dvcgitremote
 ['remote "mydvcremote"']
     url = C:\Users\MATIAS\Documents\DSTI\Courses\MLOps\examples\DvcTests\dvc-storage
+['remote "dvcgitremote"']
+    url = https://github.com/zBotta/dvc_testing
